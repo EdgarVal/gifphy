@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(-90deg, #da22ff, #9733ee);
+    background-repeat: no-repeat;
+    /* background:  fixed center; */
+    background-size: auto;
+    height: 100%;
+    min-height: 100vh;
+}
+
+
+.jumbotron {
+    background-image: linear-gradient(to bottom right, red, yellow);
+    background-repeat: no-repeat;
+    border: double red;
+}
+
+#buttons-appear {
+    width: 700px;
+    margin-right: 10px;
+    border: double red;
+    background-image: linear-gradient(orange, yellow);
+    display: inline-block;
+}
+
+#gifs-appear {
+    width: 700px;
+    margin-left: 10px; 
+    border: double red;
+    background-image: linear-gradient(orange, yellow);
+    display: inline-block;
+}
+
+#gif {
+    box-shadow: 5px 10px 18px #888888;
+}
