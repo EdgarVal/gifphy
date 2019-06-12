@@ -1,2 +1,2 @@
 # gifphy
-12-15
+Web app that uses GIFPHY API to call gifs the user searches for
